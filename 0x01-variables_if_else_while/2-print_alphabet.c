@@ -7,7 +7,7 @@
  */
 int main (void)
 {
-	char alp[26] =
+	char alp [26] =
 	"abcdefghijklmnopqrstuvwxyz";
 	int i;
 
@@ -16,5 +16,5 @@ int main (void)
 		putchar(alp[i]);
 	}
 	putchar('\n');
-	return (0);
+	return(0);
 }
