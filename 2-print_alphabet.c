@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - A program that prints the alphabet in lowercase
+ * using putchar
  * Return: 0 (success)
  */
 int main(void)
