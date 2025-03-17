@@ -1,6 +1,7 @@
 #include "main.h"
 /** 
-*void print_alphabet_x10-prints alphabets 10X
+*void print_alphabet_x10-prints 
+*alphabets 10X now
 *Return: 0 (success)
 */
 void print_alphabet_x10(void)
@@ -14,7 +15,7 @@ while(letter <= 'z')
 _putchar(letter);
 letter++;
 }
+_putchar('\n');
 i++;
 }
-_putchar('\n');
 }
