@@ -1,20 +1,16 @@
 #include "main.h"
 /**
-*print_alphabet_x10-prints alphabet 10X
-*Return: 0 (success)
-*/
+ *print_alphabet_x10-program prints alphabets 10X
+ *Return 0 (sucess)
+ */
 void print_alphabet_x10(void)
 {
-int i = 1;
-while (i <= 10)
+int i;
+char letter;
+for (i <= 1; i <= 10; i++)
 {
-char letter = 'a';
-while (letter <= 'z')
+for (letter = 'a'; letter <= 'z'; letter++ )
 {
-_putchar(letter);
-letter++;
-}
-_putchar('\n');
-i++;
+putchar(letter);
 }
 }

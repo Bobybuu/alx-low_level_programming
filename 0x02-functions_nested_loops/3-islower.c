@@ -6,16 +6,6 @@
 int _islower(int c)
 {
 char letter;
-for( letter = 'a'; letter <= 'z'; letter++)
-{
-if (letter != 'c')
-{
-return (0);
-}
-else
-{
-return (1);
-}
-_putchar('\n'); 
-}
+letter = 'c', 'C';
+x = letter.isalpha()
 }
