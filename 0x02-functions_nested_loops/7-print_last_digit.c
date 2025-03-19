@@ -13,6 +13,8 @@ if (result < 0)
 result *= -1;
 }
 else
+{
 _putchar(result + '0');
 return (result);
+}
 }
