@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  *_islower-a program that prints lower alphabets
+ *@c- character to be checked
  *Return 0 (success)
  */
 int _islower(int c)
