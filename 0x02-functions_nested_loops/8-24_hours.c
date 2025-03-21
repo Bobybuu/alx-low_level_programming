@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * jack_bauer- a function that prints every minute of the day starting from 00:00 to 23:59.
+ * jack_bauer- a function that prints every minute of the day starting
  * Return: Always 0.
  */
 void jack_bauer(void)
@@ -17,5 +17,5 @@ _putchar((minutes / 10) + '0');
 _putchar((minutes % 10) + '0');
 _putchar('\n');
 }
-}   
+}
 }
