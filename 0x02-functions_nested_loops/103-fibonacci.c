@@ -12,13 +12,13 @@ int main(void)
     {
         if (a % 2 == 0)
         {
-            sum += a; 
-        next = a + b; 
-        a = b; 
+            sum += a;
+        }
+        next = a + b;
+        a = b;
         b = next;
     }
 
     printf("%ld\n", sum);
     return (0);
-}
 }
