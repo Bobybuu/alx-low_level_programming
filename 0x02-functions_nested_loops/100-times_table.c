@@ -17,7 +17,7 @@ if (n >= 0 && n <= 15)
             {
                 _putchar(k + '0');
             }
-            else if (k < 10 && j == 0)
+            else if (k < 10 && j != 0)
             {
                 _putchar(',');
                 _putchar(' ');
