@@ -89,7 +89,7 @@ Welcome to your C Programming learning repository! This repo is designed to help
 Each folder includes:
 - 🧠 Explanation and notes
 - ✅ Example code
-- 💻 Practice tasks
+- 💻 Practice task
 - 📁 Solutions
 
 ---
