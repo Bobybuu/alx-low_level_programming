@@ -48,7 +48,7 @@ Welcome to your C Programming learning repository! This repo is designed to help
 - [ ] `union` and memory sharing
 
 ### ⚫ Stage 8: File Handling
-- [ ] Opening and closing files
+- [ ] Opening and closing a file
 - [ ] Reading and writing: `fopen()`, `fread()`, `fwrite()`
 - [ ] Other functions: `fprintf()`, `fscanf()`, `fgets()`, `fputs()`
 
