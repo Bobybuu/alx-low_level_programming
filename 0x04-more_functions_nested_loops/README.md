@@ -1,5 +1,3 @@
----
-
 # 0x04. C - More Functions, More Nested Loops
 
 ## 📘 Learning Objectives
@@ -99,4 +97,3 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 file.c -o output
 └── README.md             # Project documentation
 ```
 
----
