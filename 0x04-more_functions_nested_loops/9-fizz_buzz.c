@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - Prints the numbers from 1 to 100 with FizzBuzz logic
+ * main - Prints the numbers from 1 to 100
+ * with FizzBuzz logic
  * Return: Always 0
  */
 int main(void)
@@ -31,6 +32,7 @@ int main(void)
 		}
 	}
 	printf("\n");
+
 	return (0);
 }
 
