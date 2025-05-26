@@ -1,0 +1,16 @@
+/**
+ * _strlen - a function that returns the length of a string
+ * @s: the string
+ * Return: length
+ */
+int _strlen(char *s)
+{
+	int length;
+
+	while (*s != '\0')
+	{
+		length++;
+		s++;
+	}
+}
+
